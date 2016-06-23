@@ -2,7 +2,7 @@
 Using FP to build the BLOBA (Boring Line-of-Business Application)
 
 ## The motivation
-Here we will use powerful functional programming languages to build a BLOBA (Boring Line-of-Business Application). Some criticisms that dirty punks often hurl at functional programming are "FP is not practical” and “you can’t solve large, real world-problems with FP”. _Hogwash!_ Other more curious and civilized folk have requested examples of using FP to build the kinds of application OO developers are tasked with solving day-to-day. Here we set out to provide evidence to the doubters, and a helping hand to those who are trying to migrate to FP.
+Here we will use powerful functional programming languages to build a BLOBA (Boring Line-of-Business Application). Some criticisms that dirty punks often hurl at functional programming are "FP is not practical” and “you can’t solve large, real world-problems with FP”. _Hogwash!_ Others (_more curious and civilized folk_) have requested examples of using FP to build the kinds of application OO developers are tasked with solving day-to-day. Here we set out to provide evidence to the doubters, and a helping hand to those who are trying to migrate to FP.
 
 Few things in software are more practical, real-world, large, or more boring than ERP systems (Enterprise Resource Planning). So now that we’ve identified our quarry; let’s go...
 
